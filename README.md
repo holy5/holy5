@@ -1,4 +1,4 @@
-<h1 align="center">Hi this is Gnauq <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi This is Quang</h1>
 <body>
 <br>
 <div align="center">
